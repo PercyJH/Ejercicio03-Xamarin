@@ -2,7 +2,6 @@ C:\Users\Alumno\source\repos\Ejercicio03\Ejercicio03\Ejercicio03\bin\Debug\netst
 C:\Users\Alumno\source\repos\Ejercicio03\Ejercicio03\Ejercicio03\bin\Debug\netstandard2.0\Ejercicio03.dll
 C:\Users\Alumno\source\repos\Ejercicio03\Ejercicio03\Ejercicio03\bin\Debug\netstandard2.0\ref\Ejercicio03.dll
 C:\Users\Alumno\source\repos\Ejercicio03\Ejercicio03\Ejercicio03\bin\Debug\netstandard2.0\Ejercicio03.pdb
-C:\Users\Alumno\source\repos\Ejercicio03\Ejercicio03\Ejercicio03\obj\Debug\netstandard2.0\Ejercicio03.csproj.AssemblyReference.cache
 C:\Users\Alumno\source\repos\Ejercicio03\Ejercicio03\Ejercicio03\obj\Debug\netstandard2.0\Ejercicio03.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Alumno\source\repos\Ejercicio03\Ejercicio03\Ejercicio03\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Users\Alumno\source\repos\Ejercicio03\Ejercicio03\Ejercicio03\obj\Debug\netstandard2.0\ButtonCode.xaml.g.cs

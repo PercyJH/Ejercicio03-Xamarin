@@ -8,7 +8,7 @@ namespace Ejercicio03
 {
     [Preserve(AllMembers = true)]
     [ContentProperty(nameof(Source))]
-    class ImageResourceExtension : IMarkupExtension
+    public class ImageResourceExtension : IMarkupExtension
     {
         public String Source { get; set; }
         public object ProvideValue(IServiceProvider serviceProvider)
